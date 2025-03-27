@@ -5,6 +5,9 @@ module.exports = {
     extend: {
       borderColor: {
         border: "border"
+      },
+      backgroundColor: {
+        background: "background"
       }
     },
   },
